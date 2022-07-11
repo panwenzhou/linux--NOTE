@@ -14,13 +14,13 @@
 
 - GNU/Linux
 
-  ![](Linux.assets/QQ截图20220425180308.png)
+  ![](Linux.assets/20220425180308.png)
 
   
 
 - Linux发行版本
 
-  ![](Linux.assets/QQ截图20220425182118.png)
+  ![](Linux.assets/20220425182118.png)
 
 ## Linux 基础篇
 
@@ -47,7 +47,7 @@
 
 - 终端界面解释
 
-  ![](Linux.assets/、2.png)
+  ![](Linux.assets/20220426094554.png)
 
   root为当前账户名
 
@@ -1338,7 +1338,6 @@ source 脚本或路径 （借助cshell csh执行 当前shell执行）
   ![image-20220503170957245](Linux.assets/image-20220503170957245.png)
 
 ![image-20220503171028881](Linux.assets/image-20220503171028881.png)
-
 
 
 
